@@ -6,4 +6,4 @@
 ##### 2. AI Platform 
   This services is using for train the model and save the model for predict the data POST from Android
   
-  
+  to see Android repository, check this GitHub link https://github.com/vans-id/Listen-To-Your-Book
